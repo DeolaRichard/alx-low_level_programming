@@ -1,11 +1,12 @@
 #include <stdio.h>
 
 /**
- * main - write single numbers in base 10
+ * main - print single numbers in base 10
  * Return: 0
  */
 
 int main(void)
+
 {
 	int num;
 
